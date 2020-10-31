@@ -3,3 +3,5 @@ make a folder in src folder and write the name of file in .js extension with cap
 make the component with snippet
 write rcc and hit tab. class based component wwill be created. modify it according to our desire.
 we can also make functional components.
+
+in some cases we have to pass data from the components and yhis is called props. 
